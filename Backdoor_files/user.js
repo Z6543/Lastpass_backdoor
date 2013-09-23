@@ -1,0 +1,1 @@
+user_pref("yubisteal.stolen", false);
